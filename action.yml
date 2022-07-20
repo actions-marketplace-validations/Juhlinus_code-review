@@ -1,7 +1,7 @@
 # https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions
-name: "Action TS Template"
-description: "A typescript template for rapid development of GitHub actions."
-author: "xrkffgg"
+name: "Code Review"
+description: "Do code reviews based on input"
+author: "juhlinus"
 
 branding:
   # https://actions-cool.github.io/github-action-branding/
