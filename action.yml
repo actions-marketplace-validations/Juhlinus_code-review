@@ -1,5 +1,5 @@
 # https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions
-name: "Code Review"
+name: "The Code Review"
 description: "Do code reviews based on input"
 author: "juhlinus"
 
